@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Capsule Render Wave Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=030712,4c1d95,7c3aed,22d3ee&height=240&section=header&text=Vansh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Systems%20Architect&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=030712,4c1d95,7c3aed,22d3ee&height=240&section=header&text=Vansh&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20and%20AI%20Systems%20Architect&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
 <!-- Typing SVG Animation -->
 <a href="https://github.com/Vansh-2110-code">
