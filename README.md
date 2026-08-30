@@ -18,8 +18,8 @@
   <a href="https://github.com/Vansh-2110-code">
     <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India%20%7C%20Remote-581c87?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
   </a>
-  <a href="https://github.com/Vansh-2110-code">
-    <img src="https://img.shields.io/badge/Portfolio-vansh.dev-7c3aed?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
+  <a href="https://vanshgoyalportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-vanshgoyalportfolio.vercel.app-7c3aed?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/vansh">
     <img src="https://img.shields.io/badge/LinkedIn-Vansh-4338ca?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -372,7 +372,7 @@ current_focus:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://github.com/Vansh-2110-code">
+  <a href="https://vanshgoyalportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </div>
