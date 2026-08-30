@@ -286,7 +286,7 @@ Enterprise Tech Solutions • 2023 – Present
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/Vansh-2110-code">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vansh-2110-code&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub Stats" width="410" />
+        <img src="https://github-readme-stats-tau-bay.vercel.app/api?username=Vansh-2110-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub Stats" width="410" />
       </a>
     </td>
     <td align="center" valign="top">
@@ -301,7 +301,7 @@ Enterprise Tech Solutions • 2023 – Present
 
 <!-- Top Languages -->
 <a href="https://github.com/Vansh-2110-code">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-2110-code&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Top Languages" width="500" />
+  <img src="https://github-readme-stats-tau-bay.vercel.app/api/top-langs/?username=Vansh-2110-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Top Languages" width="500" />
 </a>
 
 </div>
@@ -312,7 +312,7 @@ Enterprise Tech Solutions • 2023 – Present
 
 <div align="center">
   <a href="https://github.com/Vansh-2110-code">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vansh-2110-code&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy-nu.vercel.app/?username=Vansh-2110-code&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
   </a>
 </div>
 
@@ -322,7 +322,7 @@ Enterprise Tech Solutions • 2023 – Present
 
 <div align="center">
   <a href="https://github.com/Vansh-2110-code">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh-2110-code&theme=tokyo-night&bg_color=030712&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+    <img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=Vansh-2110-code&theme=tokyo-night&bg_color=030712&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
   </a>
 </div>
 
